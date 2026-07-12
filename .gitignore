@@ -1,0 +1,31 @@
+# ==========================================
+# 1. PROTEKSI ALGORITMA (Kekayaan Intelektual)
+# ==========================================
+# Sembunyikan source code C agar tidak bisa dilihat/dicontek orang lain
+*.c
+*.h
+
+# ==========================================
+# 2. FILE INSTALASI & CACHE PYTHON
+# ==========================================
+# Sembunyikan file sampah yang ter-generate otomatis di laptop masing-masing
+*.egg-info/
+__pycache__/
+*.py[cod]
+build/
+dist/
+
+# ==========================================
+# 3. VIRTUAL ENVIRONMENT
+# ==========================================
+.venv/
+venv/
+env/
+
+# ==========================================
+# 4. FILE TESTING & GAMBAR PRIBADI
+# ==========================================
+cek_lib.py
+*.png
+*.jpg
+*.jpeg
