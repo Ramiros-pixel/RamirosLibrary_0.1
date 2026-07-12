@@ -28,7 +28,7 @@ Ikuti 2 langkah mudah ini untuk memasang `ramiros_vision` di laptopmu:
 ### 1. Clone Repository
 Buka terminal/PowerShell, lalu unduh repositori ini:
 ```bash
-git clone <URL_GITHUB_KAMU_DISINI>
+git clone <https://github.com/Ramiros-pixel/RamirosLibrary_0.1>
 cd RAMIROS_PACK
 
 Kemudian install library lokal dengan menggunakan perintah 
